@@ -5,5 +5,5 @@
 
 <!--- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoniyagosavi10&count_bg=%23C83D88&title_bg=%23555555&icon=&icon_color=%23C21313&title=Viewers&edge_flat=true"/></a> -->
 
-<t>![Visitor Count](https://profile-counter.glitch.me/soniyagosavi10/count.svg) </t>
+Views: <t>![Visitor Count](https://profile-counter.glitch.me/soniyagosavi10/count.svg) </t>
 
