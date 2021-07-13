@@ -10,4 +10,7 @@
 
 <t>![Visitor Count](https://profile-counter.glitch.me/soniyagosavi10/count.svg) </t>
 
-![Soniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soniyagosavi10&show_icons=true&theme=synthwave)
+![Soniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soniyagosavi10&show_icons=true&theme=synthwave&custom_title=Soniya's&nbsp;Github&nbsp;Statistics)
+
+
+
